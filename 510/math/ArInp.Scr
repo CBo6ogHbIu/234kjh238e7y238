@@ -1,0 +1,11 @@
+--create .\math.lib
+.\alg2x.o
+.\complex.o
+.\errhelper.o
+.\fifo.o
+.\freqalg.o
+.\logic.o
+.\measalgs.o
+C:\Keil_V503\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Lib\ARM\arm_cortexM4lf_math.lib
+.\startup_mk70f15.o
+.\system_mk70f15.o
